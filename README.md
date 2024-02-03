@@ -1,6 +1,4 @@
 # Glowing-Text-Animation-Effect
- 
-## Неоновый текст
 
 ## Codepen: https://codepen.io/vladimirsaenko/pen/OJxZgdr
 
